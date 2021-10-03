@@ -1,0 +1,35 @@
+{
+  "online": [
+    {
+      "id": 1,
+      "name": "Salah",
+      "img": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/fox.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Salah",
+      "img": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/fox.jpg",
+      "login": true
+    },
+    {
+      "name": "MMM",
+      "img": "http://studiomm.co.uk/assets/Globals/mm_black-copy.jpg",
+      "login": false,
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "text": "xvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccccccccccccccccccccccccc",
+      "img": "https://images.theconversation.com/files/378097/original/file-20210111-23-bqsfwl.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+      "usersId": 1,
+      "userName": "Salah",
+      "userImg": "https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/fox.jpg",
+      "id": 13,
+      "showcomment": false
+    }
+  ],
+  "comments": []
+}
